@@ -9,8 +9,8 @@
 1.1、如果你不想训练，直接跳到4.1开始；以内置采集的图片   
 2、训练模式下分别对技能，锤子，包大伯，科技 4个功能进行框选   
 3、框选后点击采集（技能能释放的状态Rrady），然后按F2释放技能，在按F2采集Cooldown，在完成 对4个进行框选，截图可以看这：   
-![Image](https://raw.githubusercontent.com/nomoneynolife/mtf-yf-auto/blob/master/bin/Debug/net451/Templates/Ready.png)   
-![Image](https://raw.githubusercontent.com/nomoneynolife/mtf-yf-auto/blob/master/bin/Debug/net451/Templates/Cooldown.png)
+![Image](https://github.com/nomoneynolife/mtf-fy-auto/blob/master/bin/Debug/net451/Templates/F1/Ready.png)   
+![Image](https://github.com/nomoneynolife/mtf-fy-auto/blob/master/bin/Debug/net451/Templates/F1/Cooldown.png)
 3.1 技能框如上图，其他的可以看对比图   
 4、以上是基于坐标来的，所以更改分辨率，拖动窗口位置都会导致功能失效   
 4.1、更新 坐标采集功能，避免重复训练去采集图片，直接拖动到对应位置即可（如果没4个框框，直接重置坐标）   
