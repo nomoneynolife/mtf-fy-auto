@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WindowTitle>梦塔防</WindowTitle>
+  <MatchThreshold>0.95</MatchThreshold>
+  <LoopIntervalMs>33</LoopIntervalMs>
+  <ConfirmFramesRequired>3</ConfirmFramesRequired>
+  <CooldownCheckDelayMs>80</CooldownCheckDelayMs>
+  <MaxRetryCount>1</MaxRetryCount>
+  <SkillPriorityList>
+    <string>F1</string>
+    <string>Hammer</string>
+    <string>W</string>
+    <string>E</string>
+  </SkillPriorityList>
+</Config>
